@@ -1,0 +1,13 @@
+﻿  Source.cpp
+d:\모자이크 사진 이벤트\mosaic_new\mosaic_new\source.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\모자이크 사진 이벤트\mosaic_new\mosaic_new\source.cpp(28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\모자이크 사진 이벤트\mosaic_new\mosaic_new\source.cpp(33): warning C4244: '=': conversion from 'double' to 'ebmpBYTE', possible loss of data
+d:\모자이크 사진 이벤트\mosaic_new\mosaic_new\source.cpp(44): warning C4244: '=': conversion from 'double' to 'ebmpBYTE', possible loss of data
+d:\모자이크 사진 이벤트\mosaic_new\mosaic_new\source.cpp(45): warning C4244: '=': conversion from 'double' to 'ebmpBYTE', possible loss of data
+d:\모자이크 사진 이벤트\mosaic_new\mosaic_new\source.cpp(46): warning C4244: '=': conversion from 'double' to 'ebmpBYTE', possible loss of data
+d:\모자이크 사진 이벤트\mosaic_new\mosaic_new\source.cpp(56): warning C4244: '=': conversion from 'double' to 'ebmpBYTE', possible loss of data
+d:\모자이크 사진 이벤트\mosaic_new\mosaic_new\source.cpp(74): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\모자이크 사진 이벤트\mosaic_new\mosaic_new\source.cpp(90): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  mosaic_new.vcxproj -> D:\모자이크 사진 이벤트\mosaic_new\Debug\mosaic_new.exe
